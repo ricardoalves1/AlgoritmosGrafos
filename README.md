@@ -1,4 +1,4 @@
-# Algoritmos - Teoria dos Grafos
+# Algoritmos - Grafos
 
 ## Para compilar:
 
